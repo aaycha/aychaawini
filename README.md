@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>README - Aycha Awini</title>
+
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
 
